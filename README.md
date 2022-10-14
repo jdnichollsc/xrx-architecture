@@ -1,2 +1,3 @@
-# xrx-architecture
-Web application based on XForms, REST and XQuery (XRX)
+# XRX (web application architecture)
+
+This is a Web application based on XForms, REST and XQuery (XRX).
