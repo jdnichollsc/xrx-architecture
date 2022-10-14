@@ -1,0 +1,56 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/final/user/vendors" owner="admin" group="dba" mode="755" created="2013-12-08T18:59:14-05:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="raphael-min.js" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:41-05:00" modified="2013-12-08T19:00:41-05:00" filename="raphael-min.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bootstrap-datepicker.js" owner="admin" group="dba" mode="644" created="2013-12-08T18:59:14-05:00" modified="2013-12-08T18:59:14-05:00" filename="bootstrap-datepicker.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery-1.9.1.js" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:40-05:00" modified="2013-12-08T19:00:40-05:00" filename="jquery-1.9.1.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery-1.9.1.min.js" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:40-05:00" modified="2013-12-08T19:00:40-05:00" filename="jquery-1.9.1.min.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery-ui-1.10.3.js" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:40-05:00" modified="2013-12-08T19:00:40-05:00" filename="jquery-ui-1.10.3.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.knob.js" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:40-05:00" modified="2013-12-08T19:00:40-05:00" filename="jquery.knob.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="chosen-sprite.png" owner="admin" group="dba" mode="644" created="2013-12-08T18:59:17-05:00" modified="2013-12-08T18:59:17-05:00" filename="chosen-sprite.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="chosen-sprite%402x.png" owner="admin" group="dba" mode="644" created="2013-12-08T18:59:17-05:00" modified="2013-12-08T18:59:17-05:00" filename="chosen-sprite@2x.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="chosen.jquery.min.js" owner="admin" group="dba" mode="644" created="2013-12-08T18:59:17-05:00" modified="2013-12-08T18:59:17-05:00" filename="chosen.jquery.min.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="datepicker.css" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:33-05:00" modified="2014-01-18T14:15:19-05:00" filename="datepicker.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="uniform.default.css" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:46-05:00" modified="2014-01-18T14:15:48-05:00" filename="uniform.default.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="chosen.min.css" owner="admin" group="dba" mode="644" created="2013-12-08T18:59:17-05:00" modified="2014-01-18T14:16:10-05:00" filename="chosen.min.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.uniform.min.js" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:40-05:00" modified="2013-12-08T19:00:40-05:00" filename="jquery.uniform.min.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="modernizr-2.6.2-respond-1.1.0.min.js" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:40-05:00" modified="2013-12-08T19:00:40-05:00" filename="modernizr-2.6.2-respond-1.1.0.min.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="tinymce" filename="tinymce"/>
+    <subcollection name="morris" filename="morris"/>
+    <subcollection name="easypiechart" filename="easypiechart"/>
+    <subcollection name="datatables" filename="datatables"/>
+    <subcollection name="bootstrap-wysihtml5" filename="bootstrap-wysihtml5"/>
+    <subcollection name="flot" filename="flot"/>
+    <subcollection name="fullcalendar" filename="fullcalendar"/>
+    <subcollection name="wysiwyg" filename="wysiwyg"/>
+    <subcollection name="ckeditor" filename="ckeditor"/>
+    <subcollection name="jGrowl" filename="jGrowl"/>
+    <subcollection name="wizard" filename="wizard"/>
+</collection>

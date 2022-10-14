@@ -1,0 +1,24 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/final/user/vendors/bootstrap-wysihtml5/lib/js" owner="admin" group="dba" mode="755" created="2013-12-08T18:59:15-05:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="bootstrap-button.js" owner="admin" group="dba" mode="644" created="2013-12-08T18:59:15-05:00" modified="2013-12-08T18:59:15-05:00" filename="bootstrap-button.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bootstrap.js" owner="admin" group="dba" mode="644" created="2013-12-08T18:59:15-05:00" modified="2013-12-08T18:59:15-05:00" filename="bootstrap.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bootstrap.min.js" owner="admin" group="dba" mode="644" created="2013-12-08T18:59:15-05:00" modified="2013-12-08T18:59:15-05:00" filename="bootstrap.min.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery-1.7.2.min.js" owner="admin" group="dba" mode="644" created="2013-12-08T18:59:15-05:00" modified="2013-12-08T18:59:15-05:00" filename="jquery-1.7.2.min.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="prettify.js" owner="admin" group="dba" mode="644" created="2013-12-08T18:59:15-05:00" modified="2013-12-08T18:59:15-05:00" filename="prettify.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="wysihtml5-0.3.0.js" owner="admin" group="dba" mode="644" created="2013-12-08T18:59:15-05:00" modified="2013-12-08T18:59:15-05:00" filename="wysihtml5-0.3.0.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="wysihtml5-0.3.0.min.js" owner="admin" group="dba" mode="644" created="2013-12-08T18:59:15-05:00" modified="2013-12-08T18:59:15-05:00" filename="wysihtml5-0.3.0.min.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

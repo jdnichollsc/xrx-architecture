@@ -1,0 +1,13 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/final/user/vendors/bootstrap-wysihtml5/src" owner="admin" group="dba" mode="755" created="2013-12-08T18:59:15-05:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="bootstrap-wysihtml5.css" owner="admin" group="dba" mode="644" created="2013-12-08T18:59:15-05:00" modified="2013-12-08T18:59:15-05:00" filename="bootstrap-wysihtml5.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bootstrap-wysihtml5.js" owner="admin" group="dba" mode="644" created="2013-12-08T18:59:15-05:00" modified="2013-12-08T18:59:15-05:00" filename="bootstrap-wysihtml5.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="wysiwyg-color.css" owner="admin" group="dba" mode="644" created="2013-12-08T18:59:17-05:00" modified="2013-12-08T18:59:17-05:00" filename="wysiwyg-color.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="locales" filename="locales"/>
+</collection>

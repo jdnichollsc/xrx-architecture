@@ -1,0 +1,32 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/final/user/vendors/bootstrap-wysihtml5" owner="admin" group="dba" mode="755" created="2013-12-08T18:59:14-05:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name=".gitignore" owner="admin" group="dba" mode="644" created="2013-12-08T18:59:14-05:00" modified="2013-12-08T18:59:14-05:00" filename=".gitignore" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="component.json" owner="admin" group="dba" mode="644" created="2013-12-08T18:59:14-05:00" modified="2013-12-08T18:59:14-05:00" filename="component.json" mimetype="application/json">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Gemfile" owner="admin" group="dba" mode="644" created="2013-12-08T18:59:14-05:00" modified="2013-12-08T18:59:14-05:00" filename="Gemfile" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Gemfile.lock" owner="admin" group="dba" mode="644" created="2013-12-08T18:59:14-05:00" modified="2013-12-08T18:59:14-05:00" filename="Gemfile.lock" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="VERSION" owner="admin" group="dba" mode="644" created="2013-12-08T18:59:17-05:00" modified="2013-12-08T18:59:17-05:00" filename="VERSION" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="LICENCE" owner="admin" group="dba" mode="644" created="2013-12-08T18:59:15-05:00" modified="2013-12-08T18:59:15-05:00" filename="LICENCE" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Rakefile" owner="admin" group="dba" mode="644" created="2013-12-08T18:59:15-05:00" modified="2013-12-08T18:59:15-05:00" filename="Rakefile" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="readme.textile" owner="admin" group="dba" mode="644" created="2013-12-08T18:59:15-05:00" modified="2013-12-08T18:59:15-05:00" filename="readme.textile" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="src" filename="src"/>
+    <subcollection name="lib" filename="lib"/>
+    <subcollection name="dist" filename="dist"/>
+    <subcollection name="test" filename="test"/>
+    <subcollection name=".settings" filename=".settings"/>
+</collection>

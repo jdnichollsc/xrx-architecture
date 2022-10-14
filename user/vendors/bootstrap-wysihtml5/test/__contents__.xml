@@ -1,0 +1,23 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/final/user/vendors/bootstrap-wysihtml5/test" owner="admin" group="dba" mode="755" created="2013-12-08T18:59:17-05:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="browser_test.js" owner="admin" group="dba" mode="644" created="2013-12-08T18:59:17-05:00" modified="2013-12-08T18:59:17-05:00" filename="browser_test.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="editor_test.js" owner="admin" group="dba" mode="644" created="2013-12-08T18:59:17-05:00" modified="2013-12-08T18:59:17-05:00" filename="editor_test.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="incompatible_test.js" owner="admin" group="dba" mode="644" created="2013-12-08T18:59:17-05:00" modified="2013-12-08T18:59:17-05:00" filename="incompatible_test.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="lib" owner="admin" group="dba" mode="644" created="2013-12-08T18:59:17-05:00" modified="2013-12-08T18:59:17-05:00" filename="lib" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="README" owner="admin" group="dba" mode="644" created="2013-12-08T18:59:17-05:00" modified="2013-12-08T18:59:17-05:00" filename="README" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="undo_manager_test.js" owner="admin" group="dba" mode="644" created="2013-12-08T18:59:17-05:00" modified="2013-12-08T18:59:17-05:00" filename="undo_manager_test.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="support" filename="support"/>
+    <subcollection name="bootstrap_wysihtml5" filename="bootstrap_wysihtml5"/>
+</collection>
