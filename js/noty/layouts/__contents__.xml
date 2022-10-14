@@ -1,0 +1,39 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/final/js/noty/layouts" owner="admin" group="dba" mode="755" created="2013-12-08T12:46:14-05:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="bottom.js" owner="admin" group="dba" mode="644" created="2013-12-08T12:46:14-05:00" modified="2013-12-08T12:46:14-05:00" filename="bottom.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bottomCenter.js" owner="admin" group="dba" mode="644" created="2013-12-08T12:46:14-05:00" modified="2013-12-08T12:46:14-05:00" filename="bottomCenter.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bottomLeft.js" owner="admin" group="dba" mode="644" created="2013-12-08T12:46:14-05:00" modified="2013-12-08T12:46:14-05:00" filename="bottomLeft.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bottomRight.js" owner="admin" group="dba" mode="644" created="2013-12-08T12:46:14-05:00" modified="2013-12-08T12:46:14-05:00" filename="bottomRight.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="center.js" owner="admin" group="dba" mode="644" created="2013-12-08T12:46:14-05:00" modified="2013-12-08T12:46:14-05:00" filename="center.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="centerLeft.js" owner="admin" group="dba" mode="644" created="2013-12-08T12:46:14-05:00" modified="2013-12-08T12:46:14-05:00" filename="centerLeft.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="centerRight.js" owner="admin" group="dba" mode="644" created="2013-12-08T12:46:14-05:00" modified="2013-12-08T12:46:14-05:00" filename="centerRight.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="inline.js" owner="admin" group="dba" mode="644" created="2013-12-08T12:46:14-05:00" modified="2013-12-08T12:46:14-05:00" filename="inline.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="top.js" owner="admin" group="dba" mode="644" created="2013-12-08T12:46:14-05:00" modified="2013-12-08T12:46:14-05:00" filename="top.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="topCenter.js" owner="admin" group="dba" mode="644" created="2013-12-08T12:46:15-05:00" modified="2013-12-08T12:46:15-05:00" filename="topCenter.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="topLeft.js" owner="admin" group="dba" mode="644" created="2013-12-08T12:46:15-05:00" modified="2013-12-08T12:46:15-05:00" filename="topLeft.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="topRight.js" owner="admin" group="dba" mode="644" created="2013-12-08T12:46:15-05:00" modified="2013-12-08T12:46:15-05:00" filename="topRight.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

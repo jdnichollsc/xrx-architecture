@@ -1,0 +1,12 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/final/js/vendor" owner="admin" group="dba" mode="755" created="2013-12-08T11:25:06-05:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="jquery-1.8.3.min.js" owner="admin" group="dba" mode="644" created="2013-12-08T13:12:47-05:00" modified="2013-12-08T13:12:47-05:00" filename="jquery-1.8.3.min.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery-1.10.2.min.js" owner="admin" group="dba" mode="644" created="2013-12-08T11:25:06-05:00" modified="2013-12-08T11:25:06-05:00" filename="jquery-1.10.2.min.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="modernizr-2.6.2.min.js" owner="admin" group="dba" mode="644" created="2013-12-08T11:25:06-05:00" modified="2013-12-08T11:25:06-05:00" filename="modernizr-2.6.2.min.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

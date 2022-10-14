@@ -1,0 +1,27 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/final/img" owner="admin" group="dba" mode="755" created="2013-12-08T11:25:06-05:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="users.png" owner="admin" group="dba" mode="644" created="2013-12-08T12:10:47-05:00" modified="2013-12-08T12:10:47-05:00" filename="users.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="LaMandarinadeNewton_Services_CoCreation.png" owner="admin" group="dba" mode="644" created="2013-12-08T18:25:52-05:00" modified="2013-12-08T18:25:52-05:00" filename="LaMandarinadeNewton_Services_CoCreation.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="co-creation-award2.png" owner="admin" group="dba" mode="644" created="2013-12-08T18:25:52-05:00" modified="2013-12-08T18:25:52-05:00" filename="co-creation-award2.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="co-creation.png" owner="admin" group="dba" mode="644" created="2013-12-08T18:25:52-05:00" modified="2013-12-08T18:25:52-05:00" filename="co-creation.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="testimonial.png" owner="admin" group="dba" mode="644" created="2013-12-08T18:25:52-05:00" modified="2013-12-08T18:25:52-05:00" filename="testimonial.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="wewantyou.png" owner="admin" group="dba" mode="644" created="2013-12-08T18:25:52-05:00" modified="2013-12-08T18:25:52-05:00" filename="wewantyou.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Figura_017.png" owner="admin" group="dba" mode="644" created="2013-12-08T18:40:39-05:00" modified="2013-12-08T18:40:39-05:00" filename="Figura_017.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="gplaypattern.png" owner="admin" group="dba" mode="644" created="2013-12-08T12:04:22-05:00" modified="2013-12-08T12:04:22-05:00" filename="gplaypattern.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>
