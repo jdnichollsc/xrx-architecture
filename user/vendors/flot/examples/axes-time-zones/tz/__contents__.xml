@@ -1,0 +1,60 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/final/user/vendors/flot/examples/axes-time-zones/tz" owner="admin" group="dba" mode="755" created="2013-12-08T19:00:35-05:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="europe" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:35-05:00" modified="2013-12-08T19:00:35-05:00" filename="europe" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="factory" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:35-05:00" modified="2013-12-08T19:00:35-05:00" filename="factory" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="iso3166.tab" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:35-05:00" modified="2013-12-08T19:00:35-05:00" filename="iso3166.tab" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="leapseconds" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:35-05:00" modified="2013-12-08T19:00:35-05:00" filename="leapseconds" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="northamerica" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:35-05:00" modified="2013-12-08T19:00:35-05:00" filename="northamerica" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pacificnew" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:35-05:00" modified="2013-12-08T19:00:35-05:00" filename="pacificnew" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="solar87" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:35-05:00" modified="2013-12-08T19:00:35-05:00" filename="solar87" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="solar88" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:35-05:00" modified="2013-12-08T19:00:35-05:00" filename="solar88" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="solar89" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:35-05:00" modified="2013-12-08T19:00:35-05:00" filename="solar89" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="southamerica" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:35-05:00" modified="2013-12-08T19:00:35-05:00" filename="southamerica" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="systemv" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:36-05:00" modified="2013-12-08T19:00:36-05:00" filename="systemv" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="yearistype.sh" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:36-05:00" modified="2013-12-08T19:00:36-05:00" filename="yearistype.sh" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="zone.tab" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:36-05:00" modified="2013-12-08T19:00:36-05:00" filename="zone.tab" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="africa" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:35-05:00" modified="2013-12-08T19:00:35-05:00" filename="africa" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="antarctica" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:35-05:00" modified="2013-12-08T19:00:35-05:00" filename="antarctica" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="asia" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:35-05:00" modified="2013-12-08T19:00:35-05:00" filename="asia" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="australasia" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:35-05:00" modified="2013-12-08T19:00:35-05:00" filename="australasia" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="backward" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:35-05:00" modified="2013-12-08T19:00:35-05:00" filename="backward" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="etcetera" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:35-05:00" modified="2013-12-08T19:00:35-05:00" filename="etcetera" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

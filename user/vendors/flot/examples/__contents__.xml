@@ -1,0 +1,37 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/final/user/vendors/flot/examples" owner="admin" group="dba" mode="755" created="2013-12-08T19:00:34-05:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="background.png" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:36-05:00" modified="2013-12-08T19:00:36-05:00" filename="background.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="examples.css" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:36-05:00" modified="2013-12-08T19:00:36-05:00" filename="examples.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="zooming" filename="zooming"/>
+    <subcollection name="annotating" filename="annotating"/>
+    <subcollection name="interacting" filename="interacting"/>
+    <subcollection name="series-pie" filename="series-pie"/>
+    <subcollection name="realtime" filename="realtime"/>
+    <subcollection name="tracking" filename="tracking"/>
+    <subcollection name="axes-interacting" filename="axes-interacting"/>
+    <subcollection name="shared" filename="shared"/>
+    <subcollection name="stacking" filename="stacking"/>
+    <subcollection name="percentiles" filename="percentiles"/>
+    <subcollection name="canvas" filename="canvas"/>
+    <subcollection name="series-types" filename="series-types"/>
+    <subcollection name="symbols" filename="symbols"/>
+    <subcollection name="axes-time" filename="axes-time"/>
+    <subcollection name="series-toggle" filename="series-toggle"/>
+    <subcollection name="resize" filename="resize"/>
+    <subcollection name="basic-options" filename="basic-options"/>
+    <subcollection name="image" filename="image"/>
+    <subcollection name="ajax" filename="ajax"/>
+    <subcollection name="categories" filename="categories"/>
+    <subcollection name="axes-time-zones" filename="axes-time-zones"/>
+    <subcollection name="navigate" filename="navigate"/>
+    <subcollection name="axes-multiple" filename="axes-multiple"/>
+    <subcollection name="selection" filename="selection"/>
+    <subcollection name="series-errorbars" filename="series-errorbars"/>
+    <subcollection name="visitors" filename="visitors"/>
+    <subcollection name="threshold" filename="threshold"/>
+    <subcollection name="basic-usage" filename="basic-usage"/>
+</collection>

@@ -1,0 +1,100 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/final/user/vendors/flot" owner="admin" group="dba" mode="755" created="2013-12-08T19:00:34-05:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="jquery.colorhelpers.js" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:37-05:00" modified="2013-12-08T19:00:37-05:00" filename="jquery.colorhelpers.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.canvas.js" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:37-05:00" modified="2013-12-08T19:00:37-05:00" filename="jquery.flot.canvas.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="README.md" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:38-05:00" modified="2013-12-08T19:00:38-05:00" filename="README.md" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.crosshair.js" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:37-05:00" modified="2013-12-08T19:00:37-05:00" filename="jquery.flot.crosshair.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.errorbars.js" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:37-05:00" modified="2013-12-08T19:00:37-05:00" filename="jquery.flot.errorbars.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.fillbetween.js" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:37-05:00" modified="2013-12-08T19:00:37-05:00" filename="jquery.flot.fillbetween.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.image.js" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:37-05:00" modified="2013-12-08T19:00:37-05:00" filename="jquery.flot.image.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.js" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:37-05:00" modified="2013-12-08T19:00:37-05:00" filename="jquery.flot.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.navigate.js" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:38-05:00" modified="2013-12-08T19:00:38-05:00" filename="jquery.flot.navigate.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.pie.js" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:38-05:00" modified="2013-12-08T19:00:38-05:00" filename="jquery.flot.pie.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.resize.js" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:38-05:00" modified="2013-12-08T19:00:38-05:00" filename="jquery.flot.resize.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.selection.js" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:38-05:00" modified="2013-12-08T19:00:38-05:00" filename="jquery.flot.selection.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="CONTRIBUTING.md" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:34-05:00" modified="2013-12-08T19:00:34-05:00" filename="CONTRIBUTING.md" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.symbol.js" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:38-05:00" modified="2013-12-08T19:00:38-05:00" filename="jquery.flot.symbol.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.threshold.js" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:38-05:00" modified="2013-12-08T19:00:38-05:00" filename="jquery.flot.threshold.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.time.js" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:38-05:00" modified="2013-12-08T19:00:38-05:00" filename="jquery.flot.time.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.js" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:38-05:00" modified="2013-12-08T19:00:38-05:00" filename="jquery.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="LICENSE.txt" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:38-05:00" modified="2013-12-08T19:00:38-05:00" filename="LICENSE.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Makefile" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:38-05:00" modified="2013-12-08T19:00:38-05:00" filename="Makefile" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="NEWS.md" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:38-05:00" modified="2013-12-08T19:00:38-05:00" filename="NEWS.md" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name=".gitignore" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:34-05:00" modified="2013-12-08T19:00:34-05:00" filename=".gitignore" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="PLUGINS.md" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:38-05:00" modified="2013-12-08T19:00:38-05:00" filename="PLUGINS.md" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name=".travis.yml" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:34-05:00" modified="2013-12-08T19:00:34-05:00" filename=".travis.yml" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.categories.js" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:37-05:00" modified="2013-12-08T19:00:37-05:00" filename="jquery.flot.categories.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="API.md" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:34-05:00" modified="2013-12-08T19:00:34-05:00" filename="API.md" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="component.json" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:34-05:00" modified="2013-12-08T19:00:34-05:00" filename="component.json" mimetype="application/json">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.flot.stack.js" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:38-05:00" modified="2013-12-08T19:00:38-05:00" filename="jquery.flot.stack.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="package.json" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:38-05:00" modified="2013-12-08T19:00:38-05:00" filename="package.json" mimetype="application/json">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="excanvas.js" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:37-05:00" modified="2013-12-08T19:00:37-05:00" filename="excanvas.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="excanvas.min.js" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:37-05:00" modified="2013-12-08T19:00:37-05:00" filename="excanvas.min.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="FAQ.md" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:37-05:00" modified="2013-12-08T19:00:37-05:00" filename="FAQ.md" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="flot.jquery.json" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:37-05:00" modified="2013-12-08T19:00:37-05:00" filename="flot.jquery.json" mimetype="application/json">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="examples" filename="examples"/>
+</collection>
