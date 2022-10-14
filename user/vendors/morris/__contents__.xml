@@ -1,0 +1,12 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/final/user/vendors/morris" owner="admin" group="dba" mode="755" created="2013-12-08T19:00:40-05:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="morris.css" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:40-05:00" modified="2013-12-08T19:00:40-05:00" filename="morris.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="morris.js" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:40-05:00" modified="2013-12-08T19:00:40-05:00" filename="morris.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="morris.min.js" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:40-05:00" modified="2013-12-08T19:00:40-05:00" filename="morris.min.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>
