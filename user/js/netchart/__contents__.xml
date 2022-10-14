@@ -1,0 +1,10 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/final/user/js/netchart" owner="admin" group="dba" mode="755" created="2014-02-24T23:24:54-05:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="netchart-dev.js" owner="admin" group="dba" mode="644" created="2014-02-24T23:24:55-05:00" modified="2014-02-24T23:24:55-05:00" filename="netchart-dev.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="netchart.js" owner="admin" group="dba" mode="644" created="2014-02-24T23:24:55-05:00" modified="2014-02-24T23:24:55-05:00" filename="netchart.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="assets" filename="assets"/>
+</collection>

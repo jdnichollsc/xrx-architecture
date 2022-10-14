@@ -1,0 +1,22 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/final/user/js/netchart/assets" owner="admin" group="dba" mode="755" created="2014-02-24T23:24:54-05:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="bar.css" owner="admin" group="dba" mode="644" created="2014-02-24T23:24:54-05:00" modified="2014-02-24T23:24:54-05:00" filename="bar.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="base.css" owner="admin" group="dba" mode="644" created="2014-02-24T23:24:54-05:00" modified="2014-02-24T23:24:54-05:00" filename="base.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="menu-sprite.png" owner="admin" group="dba" mode="644" created="2014-02-24T23:24:55-05:00" modified="2014-02-24T23:24:55-05:00" filename="menu-sprite.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="netchart.css" owner="admin" group="dba" mode="644" created="2014-02-24T23:24:55-05:00" modified="2014-02-24T23:24:55-05:00" filename="netchart.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="sprite.png" owner="admin" group="dba" mode="644" created="2014-02-24T23:24:55-05:00" modified="2014-02-24T23:24:55-05:00" filename="sprite.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="vertical-resizer.png" owner="admin" group="dba" mode="644" created="2014-02-24T23:24:55-05:00" modified="2014-02-24T23:24:55-05:00" filename="vertical-resizer.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="jspdf" filename="jspdf"/>
+</collection>

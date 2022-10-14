@@ -1,0 +1,38 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/final/user" owner="admin" group="dba" mode="755" created="2013-12-08T18:53:24-05:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="contribucion.xq" owner="admin" group="dba" mode="755" created="2014-01-03T21:50:24-05:00" modified="2014-01-19T18:30:54-05:00" filename="contribucion.xq" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="guardarcontribucion.xq" owner="admin" group="dba" mode="755" created="2014-02-19T22:59:31-05:00" modified="2014-02-19T22:59:31-05:00" filename="guardarcontribucion.xq" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="contribucion.xsd" owner="admin" group="dba" mode="644" created="2014-01-19T18:58:24-05:00" modified="2014-01-19T18:58:24-05:00" filename="contribucion.xsd" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="fases.xml" owner="admin" group="dba" mode="644" created="2014-01-03T21:46:56-05:00" modified="2014-01-03T21:46:56-05:00" filename="fases.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="nuevacontribucion.xq" owner="admin" group="dba" mode="755" created="2014-01-18T14:08:31-05:00" modified="2014-01-19T20:20:48-05:00" filename="nuevacontribucion.xq" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="nuevacontribucion.js" owner="admin" group="dba" mode="644" created="2013-12-08T20:00:16-05:00" modified="2014-02-25T23:30:19-05:00" filename="nuevacontribucion.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="roles.xml" owner="admin" group="dba" mode="644" created="2014-01-03T21:44:56-05:00" modified="2014-01-03T21:44:56-05:00" filename="roles.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="getcontribucion.xq" owner="admin" group="dba" mode="755" created="2014-02-26T00:32:07-05:00" modified="2014-02-26T00:51:50-05:00" filename="getcontribucion.xq" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="nuevacontribucion.xml" owner="admin" group="dba" mode="644" created="2014-02-23T10:47:34-05:00" modified="2014-02-23T10:47:34-05:00" filename="nuevacontribucion.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="index.xq" owner="admin" group="dba" mode="755" created="2014-02-20T21:46:09-05:00" modified="2014-02-26T01:10:28-05:00" filename="index.xq" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="js" filename="js"/>
+    <subcollection name="images" filename="images"/>
+    <subcollection name="assets" filename="assets"/>
+    <subcollection name="bootstrap" filename="bootstrap"/>
+    <subcollection name="vendors" filename="vendors"/>
+</collection>

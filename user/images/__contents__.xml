@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/final/user/images" owner="admin" group="dba" mode="755" created="2013-12-08T22:42:28-05:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="bg-input-focus.png" owner="admin" group="dba" mode="644" created="2013-12-08T22:42:28-05:00" modified="2013-12-08T22:42:28-05:00" filename="bg-input-focus.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bg-input.png" owner="admin" group="dba" mode="644" created="2013-12-08T22:42:28-05:00" modified="2013-12-08T22:42:28-05:00" filename="bg-input.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="sprite.png" owner="admin" group="dba" mode="644" created="2013-12-08T22:42:29-05:00" modified="2013-12-08T22:42:29-05:00" filename="sprite.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Thumbs.db" owner="admin" group="dba" mode="644" created="2013-12-08T22:42:29-05:00" modified="2013-12-08T22:42:29-05:00" filename="Thumbs.db" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

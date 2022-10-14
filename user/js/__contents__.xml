@@ -1,0 +1,7 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/final/user/js" owner="admin" group="dba" mode="755" created="2014-02-24T23:24:28-05:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="index.js" owner="admin" group="dba" mode="644" created="2014-02-24T23:27:23-05:00" modified="2014-02-26T01:13:25-05:00" filename="index.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="netchart" filename="netchart"/>
+</collection>
