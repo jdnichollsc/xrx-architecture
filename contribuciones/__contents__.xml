@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/final/contribuciones" owner="admin" group="dba" mode="755" created="2014-01-19T18:35:19-05:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="f836fc8d-3a4f-4f7c-91c5-564cf46235b1" owner="admin" group="dba" mode="644" created="2014-02-25T23:01:02-05:00" modified="2014-02-25T23:01:02-05:00" filename="f836fc8d-3a4f-4f7c-91c5-564cf46235b1" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="8c4e0aa5-00db-47ea-8ab1-1e02107be52b" owner="admin" group="dba" mode="644" created="2014-02-25T21:31:06-05:00" modified="2014-02-25T21:31:06-05:00" filename="8c4e0aa5-00db-47ea-8ab1-1e02107be52b" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="948cdda1-b46b-40b2-981d-e04f074a3f60" owner="admin" group="dba" mode="644" created="2014-02-25T22:52:29-05:00" modified="2014-02-25T22:52:29-05:00" filename="948cdda1-b46b-40b2-981d-e04f074a3f60" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="192d2f25-07be-4b4b-8951-9711e4f171d1" owner="admin" group="dba" mode="644" created="2014-02-25T22:58:23-05:00" modified="2014-02-25T22:58:23-05:00" filename="192d2f25-07be-4b4b-8951-9711e4f171d1" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

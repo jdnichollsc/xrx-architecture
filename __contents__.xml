@@ -1,0 +1,36 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/final" owner="admin" group="dba" mode="755" created="2013-12-08T11:21:39-05:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="users.xml" owner="admin" group="dba" mode="644" created="2013-12-08T12:27:27-05:00" modified="2013-12-08T12:27:27-05:00" filename="users.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="index.xq" owner="admin" group="dba" mode="755" created="2014-02-20T22:45:36-05:00" modified="2014-02-20T22:51:39-05:00" filename="index.xq" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="login.xq" owner="admin" group="dba" mode="755" created="2013-12-08T12:21:43-05:00" modified="2014-02-23T10:30:57-05:00" filename="login.xq" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="logout.xq" owner="admin" group="dba" mode="755" created="2014-02-23T10:45:22-05:00" modified="2014-02-23T10:45:22-05:00" filename="logout.xq" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="crossdomain.xml" owner="admin" group="dba" mode="644" created="2013-12-08T11:25:06-05:00" modified="2013-12-08T11:25:06-05:00" filename="crossdomain.xml" mimetype="application/xml" namedoctype="cross-domain-policy" publicid="" systemid="http://www.adobe.com/xml/dtds/cross-domain-policy.dtd">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="favicon.ico" owner="admin" group="dba" mode="644" created="2013-12-08T11:25:06-05:00" modified="2013-12-08T11:25:06-05:00" filename="favicon.ico" mimetype="image/vnd.microsoft.icon">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="humans.txt" owner="admin" group="dba" mode="644" created="2013-12-08T11:25:06-05:00" modified="2013-12-08T11:25:06-05:00" filename="humans.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dologin.xq" owner="admin" group="dba" mode="755" created="2014-02-20T23:14:03-05:00" modified="2014-02-20T23:27:46-05:00" filename="dologin.xq" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="robots.txt" owner="admin" group="dba" mode="644" created="2013-12-08T11:25:06-05:00" modified="2013-12-08T11:25:06-05:00" filename="robots.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="img" filename="img"/>
+    <subcollection name="js" filename="js"/>
+    <subcollection name="css" filename="css"/>
+    <subcollection name="user" filename="user"/>
+    <subcollection name="contribuciones" filename="contribuciones"/>
+    <subcollection name="xsltforms" filename="xsltforms"/>
+</collection>

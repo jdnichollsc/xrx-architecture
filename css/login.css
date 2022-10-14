@@ -1,0 +1,141 @@
+@import url(http://weloveiconfonts.com/api/?family=brandico);
+            * {
+              box-sizing:border-box;
+              margin:0;
+              padding:0;
+               }
+            html,
+            body {
+              
+                height: 100%;
+                width: 100%;
+                padding: 0;
+                margin: 0;
+              -webkit-font-smoothing: antialiased; 
+            }
+            body{
+              background: #fff url('../img/gplaypattern.png') repeat;
+              display:table;
+              font-family: source-sans-pro, sans-serif;
+              font-weight:300;
+             color:#333;
+             }
+            hr{
+              border:0;
+              border-bottom:1px solid #ccc;
+              margin:15px -25px;
+              padding:0 100px;
+              width:100px;
+              height:1px;
+              clear:both;
+              
+              
+            }
+            h1{
+              display:block;
+              color:#fff;
+              font-weight:300;
+              margin:0 0 15px 0;
+              background:#0B82E0;
+              position:relative;
+              box-shadow: 
+                35px 0 #0B82E0,
+                0 1px 3px #ccc,
+                35px 1px 3px #ccc
+                ;
+              padding-left:50px;
+             }
+            h1:before{
+              content: "";
+            display: block;
+            border-width: 25px 25px 25px 25px;
+            border-color: transparent transparent transparent #fff;
+            border-style: solid;
+            position: absolute;
+            left: -1px;
+            top: -3px;
+            }
+            
+            h1:after{
+             content: "";
+            display: block;
+            border-width: 10px 10px 0 0;
+            border-color: #0C67AF transparent transparent transparent;
+            border-style: solid;
+            position: absolute;
+            right: -35px;
+            top: 100%;
+              
+            }
+            .container{
+              display:table-cell;
+              vertical-align: middle;
+              text-align:center;
+            }
+            form{
+              width:300px;
+              padding:20px 25px 15px 25px;
+              border:1px solid #ccc;
+              margin:0 auto;
+              background:#fff;
+              border-radius:5px;
+              box-shadow:0 3px #e1e1e1;
+            }
+            
+            label{
+              display:inline-block;
+              color:#666;
+            }
+            
+            input{
+             outline:none;
+              border:none;
+            }
+            
+            input[type=text],
+            input[type=password]{
+              color:#666;
+              width:250px;
+              height:40px;
+              border:1px solid #ccc;
+              border-radius:2px;
+              box-shadow:0 1px 3px #eee;
+              padding:5px;
+              margin-bottom:10px;
+              text-align:center;
+              transition: all .15s ease-out;
+            }
+            
+            input[type=text]:hover,
+            input[type=password]:hover{
+              border: 1px solid #c1c1c1;
+            }
+            
+            input[type=text]:focus,
+            input[type=password]:focus{
+              border: 1px solid #0B82E0;
+            }
+            input[type=submit] {
+                width: 115px;
+                cursor:pointer;
+                height: 30px;
+                font-size: 14px;
+                font-weight: bold;
+                color: #666;
+                background:#fff;
+              border: 1px solid #ccc;
+                border-radius: 5px;
+              transition: all .1s ease-out;
+            }
+            input[type=submit]:hover {
+                background:#0B82E0;
+              color:#fff;
+               border: 1px solid #fff;
+              
+            }
+            
+            form img{
+              border-radius:50%;
+              margin-bottom:15px;
+              border:5px solid #ccc;
+            }

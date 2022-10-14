@@ -1,0 +1,30 @@
+@keyframes loader
+{
+from {-webkit-backface-visibility: visible;
+-webkit-transform-origin: 50% 50%;
+-webkit-transform: perspective(500px) rotate(-180deg);}
+to { 
+-webkit-backface-visibility: visible;
+-webkit-transform-origin: 50% 50%;
+-webkit-transform: perspective(500px) rotate(180deg);}
+}
+
+@-webkit-keyframes loader /* Safari and Chrome */
+{
+from {-webkit-backface-visibility: visible;
+-webkit-transform-origin: 50% 50%;
+-webkit-transform: perspective(500px) rotate(-180deg);}
+to { 
+-webkit-backface-visibility: visible;
+-webkit-transform-origin: 50% 50%;
+-webkit-transform: perspective(500px) rotate(180deg);}
+}
+.load {
+animation: loader 4s linear infinite;
+-webkit-animation: loader 4s linear infinite; /* Safari and Chrome */
+border-radius: 50%;
+width: 100px;
+height: 100px;
+border: 7px dashed #007AFF;
+margin:0 auto;
+}
