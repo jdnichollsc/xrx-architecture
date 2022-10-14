@@ -1,0 +1,18 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/final/user/vendors/jGrowl/examples" owner="admin" group="dba" mode="755" created="2013-12-08T19:00:39-05:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="smoke.png" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:39-05:00" modified="2013-12-08T19:00:39-05:00" filename="smoke.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="iphone.png" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:39-05:00" modified="2013-12-08T19:00:39-05:00" filename="iphone.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="jgrowl.html" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:39-05:00" modified="2013-12-08T19:00:39-05:00" filename="jgrowl.html" mimetype="text/html" namedoctype="html" publicid="-//W3C//DTD XHTML 1.0 Transitional//EN" systemid="http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="multiple-containers.html" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:39-05:00" modified="2013-12-08T19:00:39-05:00" filename="multiple-containers.html" mimetype="text/html" namedoctype="html" publicid="-//W3C//DTD XHTML 1.0 Transitional//EN" systemid="http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sideways.html" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:39-05:00" modified="2013-12-08T19:00:39-05:00" filename="sideways.html" mimetype="text/html" namedoctype="html" publicid="-//W3C//DTD XHTML 1.0 Transitional//EN" systemid="http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

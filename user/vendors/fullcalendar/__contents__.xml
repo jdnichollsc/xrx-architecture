@@ -1,0 +1,18 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/final/user/vendors/fullcalendar" owner="admin" group="dba" mode="755" created="2013-12-08T19:00:38-05:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="fullcalendar.css" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:38-05:00" modified="2013-12-08T19:00:38-05:00" filename="fullcalendar.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="fullcalendar.js" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:38-05:00" modified="2013-12-08T19:00:38-05:00" filename="fullcalendar.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="fullcalendar.min.js" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:38-05:00" modified="2013-12-08T19:00:38-05:00" filename="fullcalendar.min.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="fullcalendar.print.css" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:38-05:00" modified="2013-12-08T19:00:38-05:00" filename="fullcalendar.print.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="gcal.js" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:39-05:00" modified="2013-12-08T19:00:39-05:00" filename="gcal.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

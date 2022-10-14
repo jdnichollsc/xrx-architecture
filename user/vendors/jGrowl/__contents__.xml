@@ -1,0 +1,22 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/final/user/vendors/jGrowl" owner="admin" group="dba" mode="755" created="2013-12-08T19:00:39-05:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="jgrowl.jquery.json" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:39-05:00" modified="2013-12-08T19:00:39-05:00" filename="jgrowl.jquery.json" mimetype="application/json">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.jgrowl.css" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:39-05:00" modified="2013-12-08T19:00:39-05:00" filename="jquery.jgrowl.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.jgrowl.js" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:39-05:00" modified="2013-12-08T19:00:39-05:00" filename="jquery.jgrowl.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="LICENSE" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:40-05:00" modified="2013-12-08T19:00:40-05:00" filename="LICENSE" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="README.md" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:40-05:00" modified="2013-12-08T19:00:40-05:00" filename="README.md" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name=".gitignore" owner="admin" group="dba" mode="644" created="2013-12-08T19:00:39-05:00" modified="2013-12-08T19:00:39-05:00" filename=".gitignore" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="examples" filename="examples"/>
+</collection>
